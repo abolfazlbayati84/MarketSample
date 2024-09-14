@@ -1,0 +1,15 @@
+D:\Rider\MarketSample\Service\bin\Debug\net8.0\Service.deps.json
+D:\Rider\MarketSample\Service\bin\Debug\net8.0\Service.dll
+D:\Rider\MarketSample\Service\bin\Debug\net8.0\Service.pdb
+D:\Rider\MarketSample\Service\bin\Debug\net8.0\Model.dll
+D:\Rider\MarketSample\Service\bin\Debug\net8.0\Model.pdb
+D:\Rider\MarketSample\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\Rider\MarketSample\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider\MarketSample\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\Rider\MarketSample\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\Rider\MarketSample\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\Rider\MarketSample\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+D:\Rider\MarketSample\Service\obj\Debug\net8.0\Service.dll
+D:\Rider\MarketSample\Service\obj\Debug\net8.0\refint\Service.dll
+D:\Rider\MarketSample\Service\obj\Debug\net8.0\Service.pdb
+D:\Rider\MarketSample\Service\obj\Debug\net8.0\ref\Service.dll
