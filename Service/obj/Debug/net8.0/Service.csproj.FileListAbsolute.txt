@@ -13,3 +13,4 @@ D:\Rider\MarketSample\Service\obj\Debug\net8.0\Service.dll
 D:\Rider\MarketSample\Service\obj\Debug\net8.0\refint\Service.dll
 D:\Rider\MarketSample\Service\obj\Debug\net8.0\Service.pdb
 D:\Rider\MarketSample\Service\obj\Debug\net8.0\ref\Service.dll
+D:\Rider\MarketSample\Service\obj\Debug\net8.0\Service.sourcelink.json

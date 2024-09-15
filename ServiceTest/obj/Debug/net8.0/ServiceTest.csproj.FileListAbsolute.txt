@@ -102,3 +102,4 @@ D:\Rider\MarketSample\ServiceTest\obj\Debug\net8.0\refint\ServiceTest.dll
 D:\Rider\MarketSample\ServiceTest\obj\Debug\net8.0\ServiceTest.pdb
 D:\Rider\MarketSample\ServiceTest\obj\Debug\net8.0\ServiceTest.genruntimeconfig.cache
 D:\Rider\MarketSample\ServiceTest\obj\Debug\net8.0\ref\ServiceTest.dll
+D:\Rider\MarketSample\ServiceTest\obj\Debug\net8.0\ServiceTest.sourcelink.json

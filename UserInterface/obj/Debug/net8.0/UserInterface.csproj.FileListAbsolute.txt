@@ -18,3 +18,4 @@ D:\Rider\MarketSample\UserInterface\bin\Debug\net8.0\Service.pdb
 D:\Rider\MarketSample\UserInterface\bin\Debug\net8.0\Model.pdb
 D:\Rider\MarketSample\UserInterface\obj\Debug\net8.0\UserInterface.csproj.AssemblyReference.cache
 D:\Rider\MarketSample\UserInterface\obj\Debug\net8.0\UserInte.9C7395B8.Up2Date
+D:\Rider\MarketSample\UserInterface\obj\Debug\net8.0\UserInterface.sourcelink.json

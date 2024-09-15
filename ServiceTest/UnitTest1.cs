@@ -1,3 +1,4 @@
+using Model;
 using Service;
 
 namespace ServiceTest;
@@ -23,7 +24,7 @@ public class ServiceTest
         string expected = "Couldn't find you.";
         
         //Act
-        string actual = UserService.UserServiceSample.Login("Ab", "1234");
+        string actual = UserService.UserServiceSample.Login("Abs", "1234");
         
         //Assert
         Assert.Equal(expected,actual);
@@ -119,11 +120,12 @@ public class ServiceTest
         //Arrange
         string result1 = UserService.UserServiceSample.SignUp("Ab", "123");
         string result = UserService.UserServiceSample.Login("Abolfazl", "123");
+        int num = Database.DatabaseSample.Items.Count;
         string result2 = UserService.UserServiceSample.AddItem("C","car1","10","100");
         string expected = "Item is removed successfully";
         
         //Act
-        string actual = UserService.UserServiceSample.RemoveItem("car1", "0");
+        string actual = UserService.UserServiceSample.RemoveItem("car1", ""+num+"");
         
         //Assert
         Assert.Equal(expected,actual);

@@ -1,16 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6e45e2b6_002D7faa_002D4f84_002D84a1_002D2eeacf4eef46/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="LoginTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::F7BA2F31-EF50-46B1-B77A-EFE45E3A9D90::net8.0::ServiceTest.ServiceTest.LoginTest2&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::F7BA2F31-EF50-46B1-B77A-EFE45E3A9D90::net8.0::ServiceTest.ServiceTest.Signup1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::F7BA2F31-EF50-46B1-B77A-EFE45E3A9D90::net8.0::ServiceTest.ServiceTest.ChangeInformationTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::F7BA2F31-EF50-46B1-B77A-EFE45E3A9D90::net8.0::ServiceTest.ServiceTest.AddItemTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::F7BA2F31-EF50-46B1-B77A-EFE45E3A9D90::net8.0::ServiceTest.ServiceTest.AddItemTest2&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::F7BA2F31-EF50-46B1-B77A-EFE45E3A9D90::net8.0::ServiceTest.ServiceTest.RemoveItemTest1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::F7BA2F31-EF50-46B1-B77A-EFE45E3A9D90::net8.0::ServiceTest.ServiceTest.RemoveItemTest2&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::F7BA2F31-EF50-46B1-B77A-EFE45E3A9D90::net8.0::ServiceTest.ServiceTest.RemoveItemTest3&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::F7BA2F31-EF50-46B1-B77A-EFE45E3A9D90::net8.0::ServiceTest.ServiceTest.BuyTest1&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::F7BA2F31-EF50-46B1-B77A-EFE45E3A9D90::net8.0::ServiceTest.ServiceTest.BuyTest2&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::F7BA2F31-EF50-46B1-B77A-EFE45E3A9D90::net8.0::ServiceTest.ServiceTest.LogoutTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F7BA2F31-EF50-46B1-B77A-EFE45E3A9D90::net8.0::ServiceTest.ServiceTest&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

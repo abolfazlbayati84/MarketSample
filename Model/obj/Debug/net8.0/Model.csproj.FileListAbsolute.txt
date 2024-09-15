@@ -9,3 +9,4 @@ D:\Rider\MarketSample\Model\obj\Debug\net8.0\Model.dll
 D:\Rider\MarketSample\Model\obj\Debug\net8.0\refint\Model.dll
 D:\Rider\MarketSample\Model\obj\Debug\net8.0\Model.pdb
 D:\Rider\MarketSample\Model\obj\Debug\net8.0\ref\Model.dll
+D:\Rider\MarketSample\Model\obj\Debug\net8.0\Model.sourcelink.json
